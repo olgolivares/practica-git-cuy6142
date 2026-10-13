@@ -13,3 +13,4 @@ print(f"Peso: {datos['weight']} hectogramos")
 print("Habilidades:")
 for habilidad in datos["abilities"]:
     print(f" - {habilidad['ability']['name']}")
+
